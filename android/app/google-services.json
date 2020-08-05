@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "800480424928",
+    "firebase_url": "https://firernauth.firebaseio.com",
+    "project_id": "firernauth",
+    "storage_bucket": "firernauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800480424928:android:432e4a36cc83f17cb73185",
+        "android_client_info": {
+          "package_name": "com.firernauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800480424928-o5128kfl8b9969v14j16d18dma5pk1sa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firernauth",
+            "certificate_hash": "0f32e70a98c1ce7f56724b8a8cfef2c3e6b59a2c"
+          }
+        },
+        {
+          "client_id": "800480424928-g22is5snkq7f1mgkct1i9aumrc7jfrv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjRKsAdIZegm63QXQK9CVz9tG3ZgeXEsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800480424928-g22is5snkq7f1mgkct1i9aumrc7jfrv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
